@@ -1,50 +1,77 @@
-# Welcome to your Expo app 👋
+# Food Hub 👋
+Food Hub is a modern, mobile-first application built with Expo and React Native using TypeScript. Designed with food enthusiasts in mind, Food Hub offers a seamless interface for exploring recipes, discovering local eateries, and sharing culinary experiences—all in one place.
+## Overview
+Food Hub combines intuitive design with powerful functionality to deliver a user-friendly experience for anyone passionate about food. Whether you’re looking to try new recipes, find nearby restaurants, or share your culinary creations, Food Hub is your go-to mobile solution.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Features
+Browse and Discover: Seamlessly navigate through curated recipes and local food listings.
+Responsive UI: Enjoy a fully responsive design built for mobile devices.
+File-Based Routing: Simplifies navigation and enhances maintainability.
+Modular Components: Clean and reusable components make it easy to extend functionality.
+Cross-Platform: Run on both Android and iOS devices using the Expo platform.
 
-## Get started
+### Tech Stack
+Expo: For building universal React applications.
+React Native: For a native mobile experience.
+TypeScript: Provides static typing and robust development support.
+Node.js & npm: To manage dependencies and run development scripts.
 
-1. Install dependencies
+### API Integration
+Food Hub integrates with the free TheMealDB API to provide a rich repository of meal data. This integration allows the app to fetch up-to-date information including:
+
+Meal Categories: Retrieve a list of available meal categories to help users filter and explore different types of meals.
+Meal Details: Access comprehensive details for individual meals, including recipes, ingredients, and preparation instructions.
+By leveraging TheMealDB API, Food Hub ensures that users have access to a diverse range of culinary options and the latest meal trends. For more details about the API and its capabilities, visit TheMealDB API documentation.
+
+### Getting Started
+Follow these instructions to set up and run the project locally.
+
+#### Prerequisites
+Node.js (version 14 or later)
+npm (comes with Node.js) or yarn
+Expo CLI
+
+#### Installation
+
+1. IClone the repository:
 
    ```bash
-   npm install
+   git clone https://github.com/AbenezerYBekele/Food-Hub.git
+   cd Food-Hub
    ```
 
-2. Start the app
+2. Install dependencies:
+
+   ```bash
+    npm install
+   ```
+3. Start the Expo development server:
 
    ```bash
     npx expo start
    ```
+#### 4. Run on your device or emulator:
 
-In the output, you'll find options to open the app in a
+Expo Go: Scan the QR code from your Expo Go app.
+Android Emulator: Press a in the terminal.
+iOS Simulator: Press i in the terminal (macOS only).
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
+### Resetting the Project
+If you need to start with a clean slate, run:
 ```bash
 npm run reset-project
 ```
+### Contributing
+Contributions are welcome! If you would like to contribute to Food Hub, please follow these steps:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix:
+```bash
+git checkout -b feature/YourFeatureName
+```
+3. Commit your changes and push the branch:
+```bash
+git push origin feature/YourFeatureName
+```
+4. Open a pull request detailing your changes.
+Please ensure your code follows the project’s style guidelines and that you include appropriate tests where applicable.
