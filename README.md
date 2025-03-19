@@ -8,6 +8,16 @@ Browse and Discover: Seamlessly navigate through curated recipes and local food 
 Responsive UI: Enjoy a fully responsive design built for mobile devices.
 File-Based Routing: Simplifies navigation and enhances maintainability.
 Modular Components: Clean and reusable components make it easy to extend functionality.
+
+<img src="https://github.com/user-attachments/assets/30b31495-92ad-42c0-a371-fab1a190df36" width="300">
+<img src="https://github.com/user-attachments/assets/a0d65c0c-adb5-46f1-95f2-7668be575276" width="300">
+<img src="https://github.com/user-attachments/assets/50fb3ee3-f9a4-4dd5-bf93-81811365331e" width="300">
+<img src="https://github.com/user-attachments/assets/a82da201-4d61-43e6-b311-10409b86dde6" width="300">
+<img src="https://github.com/user-attachments/assets/90fcb9f5-161a-4a42-985d-f67974eab9f7" width="300">
+<img src="https://github.com/user-attachments/assets/ca5de8e0-953b-43d1-bdef-33ba39db50bd" width= "300">
+<img src="https://github.com/user-attachments/assets/a6e5ec9f-9876-4fc6-b683-64da16d65b83" width="300">
+
+
 Cross-Platform: Run on both Android and iOS devices using the Expo platform.
 
 ### Tech Stack
