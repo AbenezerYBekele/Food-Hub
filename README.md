@@ -15,7 +15,6 @@ Modular Components: Clean and reusable components make it easy to extend functio
 <img src="https://github.com/user-attachments/assets/a82da201-4d61-43e6-b311-10409b86dde6" width="300">
 <img src="https://github.com/user-attachments/assets/90fcb9f5-161a-4a42-985d-f67974eab9f7" width="300">
 <img src="https://github.com/user-attachments/assets/ca5de8e0-953b-43d1-bdef-33ba39db50bd" width= "300">
-<img src="https://github.com/user-attachments/assets/a6e5ec9f-9876-4fc6-b683-64da16d65b83" width="300">
 
 
 Cross-Platform: Run on both Android and iOS devices using the Expo platform.
